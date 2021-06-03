@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable, the Commons House of Parliament. The information of Iohn Bargraue esquire, shewing the seuerall abuses of the gouernment of the plantation in Virginia. against Sir Thomas Smith knight. Alderman Iohnson &amp; alias.</title>
+            <author>Bargrave, John, Esquire.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11348</idno><idno type="EEBO-CITATION">99892816</idno>
+  <idno type="VID">187276</idno>
+  <idno type="EEBO-PROQUEST">2240934735</idno>
+  
+            <idno type="STC">STC 1415.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.7617[20]</idno>
+            <idno type="STC">ESTC S124000</idno>
+            <idno type="PROQUEST">ocm99892816</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892816e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11348)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187276)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:3[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable, the Commons House of Parliament. The information of Iohn Bargraue esquire, shewing the seuerall abuses of the gouernment of the plantation in Virginia. against Sir Thomas Smith knight. Alderman Iohnson &amp; alias.</title>
+                  <author>Bargrave, John, Esquire.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC.</note>
+                  <note>With brackets on both sides of "against."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Smith, Thomas, 1558?-1625 --  Early works to 1800.</term>
+               <term type="personal_name">Johnson, --  Alderman.</term>
+               <term type="geographic_name">Virginia --  History --  Colonial period, ca. 1600-1775 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187276:1"/>
+            <head>To the Honourable, the Commons House of Parliament.</head>
+            <p>The Information of <hi>Iohn Bargraue</hi> Esquire, shewing the seuerall abuses of the Gouernment of the Plantation in <hi>Virginia</hi> against
+<list>
+                  <item>Sir <hi>Thomas Smith knight.</hi>
+                  </item>
+                  <item>Alderman <hi>Iohnson</hi> &amp; alias.</item>
+               </list>
+            </p>
+            <p>SHewing to this Honourable House as I haue formerly done in the last Parliament (where it was receiued as a greiuance,
+<note place="margin">
+                  <p>Amongst many Articles that punish offences with death, the 15. being death for trading with the Indians, the 35. death for carrying a Barke or Pin<g ref="char:EOLhyphen"/>nace out of the Riuer, the 36 death for selling, or giuing a<g ref="char:EOLhyphen"/>ny Commoditie to bee trans<g ref="char:EOLhyphen"/>ported out of the Collonie; are those by which the Petiti<g ref="char:EOLhyphen"/>tioner suffered dammage.</p>
+                  <p>And because it was iudg<g ref="char:EOLhyphen"/>ed that the Planter would be too much grieued with these Lawes, they haue made it death, Article 12. to vtter vn<g ref="char:EOLhyphen"/>seemely speeches either a<g ref="char:EOLhyphen"/>gainst his Maiestie or the Comittees of the <hi>Virginia</hi> Company, or against any booke that shall be set out &amp; published, intimating thereby this booke to bee published by the authoritie of the Com<g ref="char:EOLhyphen"/>pany.</p>
+               </note> as by an Order of the said Parliament appeareth) That whereas the Kings Maiestie for the aduancement of the Plantation, did by his Patent encorporate a Free Com<g ref="char:EOLhyphen"/>panie, the Bodie whereof consisting of a Treasurer, or his Deputie, foure Councellors, and fifteene Commoners; who being tied to make their Lawes (aswell by the said Patent as by certaine Roy<g ref="char:EOLhyphen"/>all instructions giuen by his Maiestie) according to the Lawes of <hi>England,</hi> both they themselues and such as were admitted by them to be of the Companie, were to haue free Trade in <hi>Virginia,</hi> as by the said Parent appeareth. Your Petitioner seauen yeares since being encouraged to aduenture in the said Company by a Patent that promised him free Trade, he found himselfe, his estate, and those he employed, inthralled to the willes of a few, who abusing the publique, or any priuate Planter as they listed, they layd all the fault on the Company.</p>
+            <list>
+               <item>1. First, therefore your Petitioner accuseth Sir <hi>Thomas Smith</hi> and some others vnknowne, in the Companies name, and without the Companies consent (contrarie to his Maiesties Patent and Roy<g ref="char:EOLhyphen"/>all Instructions, and to the Common Lawes of <hi>England,</hi> haue caused to be printed and sent to <hi>Vir<g ref="char:EOLhyphen"/>ginia</hi> a certaine Booke of tirannicall Gouernment, whereby many of the Kings Subiects there lost their liues, and were brought into slauery, and the Petitioner and those he imployed were thereby much damnified, to their great losse.</item>
+               <item>2. That the said Sir <hi>Thomas Smith,</hi> Alderman <hi>Iohnson,</hi> and others (terming themselues the Com<g ref="char:EOLhyphen"/>pany) haue contrary to the Patent and Instructions (by practise) made a Monopolie of the Planta<g ref="char:EOLhyphen"/>tion, and of the labours of all the Planters there, sinking or raysing the prises of Commodities as three or foure of them list, barring free trade from any other free of the Company but themselues, selling their Goods before their faces, and by setting of prises only of Tobacco and Sarsafras, they caused all other Staple Commodities to be neglected there; so as eight or ten Shippes going to <hi>Vir<g ref="char:EOLhyphen"/>ginia</hi> in one yeare, all came from thence emptie, except the <hi>Megazine</hi> Shippe.</item>
+               <item>3. That the said Sir <hi>Thomas Smith</hi> practising with three, foure, or fiue, which he tearmeth the Company, by secret instructions giuen to the Gouernours in <hi>Virginia,</hi> to barre the Petitioners Trade by tyrannous Lawes there, which made it death to Trade, by detayning of the Petitioners Goods by fraudulent sale of them, and by making stay of his Shippes, haue preiudiced your Petiti<g ref="char:EOLhyphen"/>oner in Moneys and vse money to the value of ten thousand pounds: Which abuses your Petitio<g ref="char:EOLhyphen"/>ner hath made proofe of them in Chancerie vpon a full hearing there before the Right Honourable the Lord Keeper, who because he could not distinguish the Actions of the Defendants from the Actions of the Company, he found it to be matter of State, and referred your Petitioner to the Councell-Table.</item>
+               <item>4. That Sir <hi>Thomas Smiths</hi> Accompts for the moneys receiued for <hi>Virginia</hi> are false, grosse and vnexaminable, because the originalls being lost, there appeareth neyther Warrants for the issuing of the Monies, nor Receipts for the paying of them.<note place="margin">It were hard if Sir <hi>Thomas Smith</hi> should be censured by his owne Lawe, Article the 17. Death for making of a falle accompt.</note>
+               </item>
+               <item>5. That during the time that your Petitioners Cause and the busines of <hi>Virginia</hi> hath depended at the Board, Sir <hi>Thomas Smith</hi> (to conceale the iniquitie of his Gouernment from his Maiestie) he hath caused the King to be misinformed concerning the Lord Keepers Decree, caused a mista<g ref="char:EOLhyphen"/>ken Order (that cleane altered the sence of the Lords of the Councells Reports) to be deliuered to his Maiestie, caused a Commission for the rectifying of the abuses, and the settleing of a Gouern<g ref="char:EOLhyphen"/>ment for <hi>Virginia</hi> to sleepe and be of no force, (when there were neere vpon 80. Articles put in a<g ref="char:EOLhyphen"/>gainst them, and but foure of them examined) by vnderhand, offering a great some of Mony, whereby he hath thrust the blame of misgouernment on others, robbed the Common-wealth of her great Examples, and your Petitioner from meanes of recouering his Right, except he be relei<g ref="char:EOLhyphen"/>ued by this Honourable House.</item>
+            </list>
+            <p>Your Petitioners Sure, is, that Sir <hi>Thomas Smith</hi> may forthwith be required to make answere to these Articles, and that the abuses of encroaching on Soueraigne power, of abusing pub<g ref="char:EOLhyphen"/>lique Authoritie to priuate ends, of robbing the publique Treasurie, being examined and prooued, your Petitiouer may find reliefe for his particuler wrongs, and the Common<g ref="char:EOLhyphen"/>wealth may not loose her life of Examples; And your Petitioner shall be bound to pray for you, &amp;c.</p>
+            <p>
+               <hi>The words of the Kings Instructions are,</hi> viz. <q>And the offences of Tumults, Rebellions, Conspiracie, Mutinie, and Seditions in those parts, which be dangerous to the State there; together with Murther Man<g ref="char:EOLhyphen"/>slaughter, Incest, Rapes, &amp; Adulteries &amp; no other offences shalbe punished by death.</q>
+            </p>
+            <p>Whereas Sir <hi>Thomas Smith</hi> hath dispersed amongst this Honourable Assembly, diuers Papers mixed with many falshoods, among some truthes, endeauouring there<g ref="char:EOLhyphen"/>by to auoid this Honourable Triall, (as he hath formerly done all other courses of Iustice) though this alone doth shew his guiltinesse: yet the proouing of the 5. Article, wherein his abusing of the King, being the very Fountaine of Iustice, will not onely appeare, but it will also make the falsehood of his dispersed papers more euident, and tender him the more culpable for vsing such shifts.</p>
+            <pb facs="tcp:187276:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
